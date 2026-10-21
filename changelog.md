@@ -22,7 +22,7 @@
 
 ## Descrição
 
-Implementação de testes automatizados de API utilizando **Cypress e TypeScript** na aplicação ServeRest, com foco nas operações CRUD de usuários.
+Implementação de testes automatizados de API utilizando **Cypress e JavaScript** na aplicação ServeRest, com foco nas operações CRUD de usuários.
 
 ## Funcionalidades implementadas
 
